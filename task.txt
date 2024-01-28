@@ -1,0 +1,2 @@
+Acilib , Baglana bilen modal sehifesi yaratmaq
+Timerli turbobit.net ə bənzər counter yazmaq

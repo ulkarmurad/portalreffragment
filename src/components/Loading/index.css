@@ -1,0 +1,19 @@
+.loader{
+    border: 5px solid black;
+    border-radius: 50%;
+    border-right-color: white;
+    animation: rotator 1s linear infinite;
+}
+
+.active{
+    display: none;
+}
+
+@keyframes rotator{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
